@@ -1,4 +1,4 @@
-## 👋🏻 Olá! Eu sou a Célia Rocha
+## 👋🏻 Olá! Eu sou Célia Rocha
 Desenvolvedora Frontend em formação
 
 
