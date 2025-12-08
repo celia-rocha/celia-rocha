@@ -1,5 +1,5 @@
 ## 👋🏻 Olá! Eu sou a Célia Rocha
-Desenvolvedora Frontend
+Desenvolvedora Frontend em formação
 
 
 ### 👩🏻‍💻 Linguagens e Tecnologias:
