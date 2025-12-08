@@ -18,9 +18,8 @@ Desenvolvedora Frontend
 <a href="https://celia-rocha.github.io/Meu-Portfolio/"><img src="https://img.shields.io/badge/Meu_Portfolio-8B5CF6?style=for-the-badge&logo=googlechrome&logoColor=white"/></a>
 
 ###  💬 Contato
-
 <p>
-  <a href="https://www.linkedin.com/in/celia-dev"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://wa.me/5547988696196"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/></a>
-  <a href="mailto:celiarr.neves2@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/celia-dev"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40" height="40" alt="LinkedIn"/></a>
+  <a href="https://wa.me/5547988696196"><img src="https://img.icons8.com/color/48/whatsapp--v1.png" width="40" height="40" alt="WhatsApp"/></a>
+  <a href="mailto:celiarr.neves2@gmail.com"><img src="https://img.icons8.com/color/48/gmail-new.png" width="40" height="40" alt="Email"/></a>
 </p>
