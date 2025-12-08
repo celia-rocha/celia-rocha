@@ -17,7 +17,7 @@ Desenvolvedora Frontend
 
 <a href="https://celia-rocha.github.io/Meu-Portfolio/"><img src="https://img.shields.io/badge/Meu_Portfolio-8B5CF6?style=for-the-badge&logo=googlechrome&logoColor=white"/></a>
 
-###  📩 Contato
+###  💬 Contato
 
 <p>
   <a href="https://www.linkedin.com/in/celia-dev"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
