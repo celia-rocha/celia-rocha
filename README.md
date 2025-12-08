@@ -20,6 +20,6 @@ Desenvolvedora Frontend
 ###  💬 Contato
 <p>
   <a href="https://www.linkedin.com/in/celia-dev"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="35" height="35" alt="LinkedIn"/></a>
-  <a href="https://wa.me/5547988696196"><img src="https://img.icons8.com/color/48/whatsapp--v1.png" width="40" height="40" alt="WhatsApp"/></a>
-  <a href="mailto:celiarr.neves2@gmail.com"><img src="https://img.icons8.com/color/48/gmail-new.png" width="40" height="40" alt="Email"/></a>
+  <a href="https://wa.me/5547988696196"><img src="https://img.icons8.com/color/48/whatsapp--v1.png" width="35" height="35" alt="WhatsApp"/></a>
+  <a href="mailto:celiarr.neves2@gmail.com"><img src="https://img.icons8.com/color/48/gmail-new.png" width="35" height="35" alt="Email"/></a>
 </p>
