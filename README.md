@@ -1,4 +1,5 @@
-## Olá! Eu sou a Desenvolvedora Frontend
+## Olá! Eu sou a Célia Rocha
+Desenvolvedora Frontend
 
 
 ### Linguagens e Tecnologias
