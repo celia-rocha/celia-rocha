@@ -1,5 +1,6 @@
 ## 👋🏻 Olá! Eu sou Célia Rocha
-Desenvolvedora Frontend em formação
+
+Desenvolvedora Frontend | React · TypeScript
 
 
 ### 👩🏻‍💻 Linguagens e Tecnologias:
